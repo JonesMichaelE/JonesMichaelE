@@ -1,4 +1,4 @@
-## Hi there 👋
+Dr Michael Jones is a senior staff scientist in the Division of Genetics and Epidemiology, where he is working on the Breast Cancer Now Generations Study. His main research interests are in the design and analysis of complex large epidemiological studies.
 
 <!--
 **JonesMichaelE/JonesMichaelE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
